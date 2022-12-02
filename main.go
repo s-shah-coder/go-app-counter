@@ -3,5 +3,6 @@ package main
 import "fmt"
 
 func main() {
-    fmt.Println("Hello #90DaysOfDevOps")
+    var challenge = "#90DaysOfDevOps"
+    fmt.Println("Welcome to", challenge, "")
 }
